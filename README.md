@@ -1,2 +1,33 @@
-# fde-community
-FDE resources, member directory, and community contributions
+# ASIA FDE Community
+
+面向亚洲 FDE 从业者、AI 交付团队、行业专家和技术伙伴的开放社区。
+
+这里沉淀与 Forward Deployed Engineer 相关的学习资料、交付实践、行业案例和可复用工具，也帮助企业与从业者找到合适的合作伙伴。
+
+## 内容目录
+
+- [入门与学习资料](#入门与学习资料)
+- [交付实践](#交付实践)
+- [案例与工具](#案例与工具)
+- [会员网络](members/README.md)
+- [贡献指南](CONTRIBUTING.md)
+
+## 入门与学习资料
+
+欢迎通过 Pull Request 推荐课程、书籍、指南和公开分享。每条资料请说明它对 FDE 工作的具体价值。
+
+## 交付实践
+
+收录需求发现、方案设计、系统实施、部署、评测、运营和规模化过程中可复用的方法。
+
+## 案例与工具
+
+优先收录包含真实约束、实施过程和结果的公开案例，以及经过实际交付验证的工具。
+
+## 会员网络
+
+[会员目录](members/README.md)用于介绍 FDE 从业者、交付团队、行业专家和技术伙伴。请复制[会员资料模板](members/PROFILE_TEMPLATE.md)，补充公开信息后提交 Pull Request。
+
+## 如何参与
+
+提交前请阅读[贡献指南](CONTRIBUTING.md)。欢迎补充资料、案例、工具和会员信息。
